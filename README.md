@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @fazasaputra
-- 👀 I’m interested in C#
+- 👀 I’m interested in C# and Javascript
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate with ur mom
